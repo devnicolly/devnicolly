@@ -1,8 +1,8 @@
 
-<img alt="welcome" src="">
+
 <div align="center">
+  <img alt="welcome" height="100" src="github.png">
   <h3>Olá, Mundo!🐈</h3>
-  <h4> Seja bem-vindo ao meu github!</h4>
   <a href="https://github.com/devnicolly/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=devnicolly&show_icons=true&title_color=B93559&text_color=81253&border_color=81253E&bg_color=FEFDED&icon_color=B93559" />
 </a>
